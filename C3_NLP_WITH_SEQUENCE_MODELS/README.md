@@ -1,7 +1,7 @@
-#[Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
+# [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
 **by DeepLearning.AI**
 
-##About this Course
+## About this Course
 In Course 3 of the Natural Language Processing Specialization, you will:
 1. Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets,
 2. Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model,

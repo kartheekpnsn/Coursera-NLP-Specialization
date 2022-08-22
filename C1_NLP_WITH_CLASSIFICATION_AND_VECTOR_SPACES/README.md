@@ -1,7 +1,7 @@
-#[Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/)
+# [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/)
 **by DeepLearning.AI**
 
-##About this Course
+## About this Course
 In Course 1 of the Natural Language Processing Specialization, you will:   
 
 1. Perform sentiment analysis of tweets using logistic regression and then naïve Bayes,

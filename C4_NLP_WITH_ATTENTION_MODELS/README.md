@@ -1,7 +1,7 @@
-#[Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
+# [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
 **by DeepLearning.AI**
 
-##About this Course
+## About this Course
 In Course 4 of the Natural Language Processing Specialization, you will:
 1. Translate complete English sentences into German using an encoder-decoder attention model,
 2. Build a Transformer model to summarize text, 

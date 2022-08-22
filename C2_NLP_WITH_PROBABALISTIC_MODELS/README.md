@@ -1,7 +1,7 @@
-#[Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+# [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
 **by DeepLearning.AI**
 
-##About this Course
+## About this Course
 In Course 2 of the Natural Language Processing Specialization, you will:
 1. Create a simple auto-correct algorithm using minimum edit distance and dynamic programming,
 2. Apply the Viterbi Algorithm for part-of-speech (POS) tagging, which is vital for computational linguistics,
